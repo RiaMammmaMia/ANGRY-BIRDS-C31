@@ -1,2 +1,2 @@
-# ANGRY-BIRDS-C31
-DID YOU KNOW THAT ANGRY BIRDS AND EVIL COWS ARE GOOD FRIENDS?
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
